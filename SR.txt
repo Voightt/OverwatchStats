@@ -1,0 +1,27 @@
+Hero All	Bronze Pct	Platinum Pct	Grandmaster Pct
+Ana	9.59	15.11	7.65
+Bastion	11.55	3.23	1.45
+D.Va	35.15	28.88	34.19
+Doomfist	3.42	4.52	4.86
+Genji	18.19	22.02	23.99
+Hanzo	14.74	20.44	10.29
+Junkrat	42.17	35.19	28.82
+Lucio	16.66	11.55	21.19
+McCree	11.22	17.69	11.15
+Mei	8.45	7.74	4.71
+Mercy	28.86	24.06	16.95
+Moira	28.05	29.18	20.48
+Orisa	13.36	7.49	6.57
+Pharah	15.02	10.02	3.7
+Reaper	13.65	9.47	1.52
+Reinhardt	24.67	23.14	11.85
+Roadhog	12.53	15.48	13.01
+Soldier: 76	20.99	14.63	10.01
+Sombra	3.61	3.17	4.38
+Symmetra	4.92	1.73	1.47
+Torbjorn	9.45	5.7	5.22
+Tracer	13.9	18.47	40.38
+Widowmaker	13.64	27.69	49.5
+Winston	9.44	14.5	26.6
+Zarya	4.85	10.51	7.79
+Zenyatta	11.92	18.37	32.27
