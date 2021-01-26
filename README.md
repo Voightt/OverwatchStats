@@ -5,8 +5,19 @@ This project was for the final for Statistics and Data Analytics (CSC 225-002) a
 
 The data that was used was taken from many different sites to ensure the data is reliable (see works cited at the bottom). The data was gathered in Spring 2018, so the conclusion that was drawn is most likely different than that of 2021, although it would be interesting to compare the differences with today's data.
 
-For the "Data-tables" branch:
 
+For the "R-files" branch:
+These files are used to help create the data matrix in "overwatchdata.R" and calculate various things such as:
+
+Correlation Coefficient
+Mean (pick rate)
+Mean (win rate)
+Standard Deviation (pick rate)
+Standard Deviation (win rate)
+These calculations also help determine the conclusion for the question that was proposed.
+
+
+For the "Data-tables" branch:
 These files are used to help create the data matrix in "overwatchdata.R" and calculate various things such as:
 
 Correlation Coefficient
@@ -17,9 +28,6 @@ Standard Deviation (win rate)
 These calculations also help determine the conclusion for the question that was proposed.
 
 ---------------------------------------------------------------
-
-
-
 Works Cited
 "MasterOverwatch Data." MasterOverwatch, MasterOverwatch.com, masteroverwatch.com. Accessed 14 Apr. 2018. Table.
 "Overbuff Data." Overbuff, ELO ENTERTAINMENT LLC., www.overbuff.com/heroes. Accessed 18 Apr. 2018. Table.
