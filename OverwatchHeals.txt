@@ -1,0 +1,7 @@
+Hero(All)	Pick Rate (Pct)	Win Rate (Pct)	On Fire (Pct)	Elimination	Damage	Healing
+Ana	4.54	46.78	10.76	10.8	3,452	7,906
+Lucio	4.46	50.66	10.06	14.65	5,720	9,145
+Mercy	8.55	50.68	2.24	1.5	378	11,906
+Moira	9.72	50.97	8.61	23.51	6,452	10,799
+Symmetra	0.79	59.34	7.71	19.33	7,905	0
+Zenyatta	5.99	53.46	8.76	16.46	8,489	6,936
