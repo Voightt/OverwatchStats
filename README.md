@@ -27,6 +27,8 @@ Standard Deviation (pick rate)
 Standard Deviation (win rate)
 These calculations also help determine the conclusion for the question that was proposed.
 
+To see the project's final paper and presentation that was used, please see the two .pdf files in the "main" branch.
+
 ---------------------------------------------------------------
 Works Cited
 "MasterOverwatch Data." MasterOverwatch, MasterOverwatch.com, masteroverwatch.com. Accessed 14 Apr. 2018. Table.
